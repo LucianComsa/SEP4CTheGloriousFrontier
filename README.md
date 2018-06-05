@@ -1,6 +1,6 @@
 # SEP4CTheGloriousFrontier
 This is the semester project done for our 4th semester with a specialization in Cross Media
-
+Link for youtube[gameplay] : https://www.youtube.com/watch?v=CEKtxr0TJko
 
 [1] Unity touch script, added but never used. [Online] Available at: https://assetstore.unity.com/packages/tools/input-management/touchscript-7394
 [Accessed 19 May 2018].
